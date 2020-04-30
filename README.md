@@ -22,13 +22,13 @@ The Fitting of furniture and extra services provided on demand while purchasing 
 ### Glimpse of the Dream&Decor
 
 ## - Home Page Screen 
-![image](https://github.com/neeta-tm/images/blob/master/Drem-DecorHome.png)
+![image](https://github.com/neeta-tm/images/blob/master/furniture/Drem-DecorHome.png)
 
 ## - Category Page 
-![image](https://github.com/neeta-tm/images/blob/master/Dream-DecorBeds.png)
+![image](https://github.com/neeta-tm/images/blob/master/furniture/Dream-DecorBeds.png)
 
 ## - Product Detail Page 
-![image](https://github.com/neeta-tm/images/blob/master/Dream-DecorBeds-PDP.png)
+![image](https://github.com/neeta-tm/images/blob/master/furniture/Dream-DecorBeds-PDP.png)
 
 ## Authors
 * **Neeta K.** - *Initial work* - [Neeta K.](https://github.com/neeta-tm)
