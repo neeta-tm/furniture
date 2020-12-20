@@ -1,4 +1,4 @@
-# Drem&Decor - The furniture Store
+# Dream&Decor - The furniture Store
 
 Have you imagine Selling furniture online? It may seem like a difficult thing at one point of time But in the right hands, it can become a rewarding business. So how do you go about setting up a successful furniture store online? Do you need tech skills, or an Apprentice-style business plan?
 
