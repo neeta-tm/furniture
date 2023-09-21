@@ -31,6 +31,6 @@ The Fitting of furniture and extra services provided on demand while purchasing 
 ![image](https://github.com/neeta-tm/images/blob/master/furniture/Dream-DecorBeds-PDP.png)
 
 ## Authors
-* **Neeta K.** - *Initial work* - [Neeta K.](https://github.com/neeta-tm)
+* **Bhavi T.** - *Initial work* - [Neeta K.](https://github.com/neeta-tm)
 
 
